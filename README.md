@@ -1,1 +1,1 @@
-# machine_learning_gis
+# Geographic Data Science with Python
